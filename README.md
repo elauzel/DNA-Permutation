@@ -1,5 +1,4 @@
 # DNA-Permutation
-DNA Permutation
 
 This is the solution to the CodeEval challenge of scoring DNA Permutations, which (as of 12-12-2015) had the lowest completion rate of all the hard challenges, at just 19%:
 
